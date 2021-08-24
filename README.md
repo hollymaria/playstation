@@ -1,3 +1,4 @@
 # Git project
 
-top 10 playstation games
+Top 10 playstation games
+Latest releases
