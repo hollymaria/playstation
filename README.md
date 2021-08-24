@@ -11,3 +11,5 @@ Cyberpunk
 Fifa 2021
 
 Red Dead Redemption 2
+
+Ghost Of Tsushima
