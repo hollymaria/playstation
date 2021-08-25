@@ -65,3 +65,18 @@
      font-family: 'Righteous', sans-serif;
      width: 200px;
   }
+
+  .title-s2 {
+      font-family: 'Righteous', sans-serif;
+      font-size: 40px;
+      text-shadow:opacity #000 1.3;
+      text-align: center;
+  }
+
+  .controllers {
+  height: 600px;
+  width: 1000px;
+  margin-left: 230px;
+
+  }
+
